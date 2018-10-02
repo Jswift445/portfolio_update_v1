@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #FFA500;
 }
 
 /* Section Styles */
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: yellow;
+  color: #FFA500;
 }
 .card {
   margin: 30px;
@@ -110,7 +110,7 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #FFA500;
   color: white;
   padding: 5px 10px;
   margin: 2px;
